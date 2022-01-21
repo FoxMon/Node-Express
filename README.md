@@ -25,5 +25,7 @@ Study Node-Express!!
 `jest는 import 사용 안됨`
 `npm i --save-dev jest @babel/plugin-transform-modules-commonjs`
 > .env.test작성
+>
 > jest.config.mjs -> setupfiles 작성
+>
 > window 환경 -> https://www.npmjs.com/package/cross-env 참고
