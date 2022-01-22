@@ -23,7 +23,9 @@ Study Node-Express!!
 `npm i --save-dev jest node-mocks-http`
 `빠르고 간결`
 `jest는 import 사용 안됨`
+`.babelrc 작성`
 `npm i --save-dev jest @babel/plugin-transform-modules-commonjs`
+`package.json -> test -> --verbose 추가`
 `jest.config.mjs -> collectCoverageFrom: ['**/*.{js.jsx}', '!**/node_modules/**'],`
 > .env.test작성
 >
